@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Wiweka
 
-<!--
-**wiweka24/wiweka24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src=https://user-images.githubusercontent.com/70740913/210069769-0251d1fd-392e-4a3f-8b25-b4dc1d42b474.gif width="200"/>
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/wiweka24)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning javascript
+- 💬 Feel free to reach me at [linkedin](https://www.linkedin.com/in/wiwekays/) 
+- 💖 Fun fact: 600+ game and still herald
+- 🎲 Let's play together 
+- 👋 see you around 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wiweka24&theme=dark&show_icons=true&hide=stars,issues&count_private=true)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiweka24&theme=dark&layout=compact&show_icons=true)
