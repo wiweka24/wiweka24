@@ -4,9 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/wiweka24)
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and kotlin
 - 💬 Feel free to reach me at [linkedin](https://www.linkedin.com/in/wiwekays/) 
-- 💖 Fun fact: 600+ game and still herald
+- 💖 Fun fact: finnaly crusader
 - 🎲 Let's play together 
 - 👋 see you around 
 
