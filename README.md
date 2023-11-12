@@ -4,9 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/wiweka24)
 
-- 🌱 I’m currently learning javascript and kotlin
+- 🌱 I’m currently learning javascript and flutter
 - 💬 Feel free to reach me at [linkedin](https://www.linkedin.com/in/wiwekays/) 
-- 💖 Fun fact: finnaly crusader
+- 💖 Fun fact: back to guardian :sad
 - 🎲 Let's play together 
 - 👋 see you around 
 
