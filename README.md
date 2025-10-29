@@ -2,11 +2,9 @@
 
 <img src=https://user-images.githubusercontent.com/70740913/210069769-0251d1fd-392e-4a3f-8b25-b4dc1d42b474.gif width="200"/>
 
-![Profile views](https://gpvc.arturio.dev/wiweka24)
-
-- 🌱 I’m currently learning javascript and flutter
+- 🌱 I’m currently learning 日本語 and Go
 - 💬 Feel free to reach me at [linkedin](https://www.linkedin.com/in/wiwekays/) 
-- 💖 Fun fact: back to guardian :sad
+- 💖 Fun fact: Finally delete Dota
 - 🎲 Let's play together 
 - 👋 see you around 
 
